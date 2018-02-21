@@ -1,0 +1,4 @@
+checkpoints/
+reward.png
+__pycache__/
+*.pyc
